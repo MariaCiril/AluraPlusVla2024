@@ -35,3 +35,12 @@ grid-template-columns: 50% 50%;
 .container-caixa{
     margin:0 6em ;
 }
+
+    .container_titulo{
+        font-size: 28px;
+        font-weight: 700;
+    }
+
+    .container_imagem{
+        margim: 1em 0 2em 0
+    }
