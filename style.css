@@ -18,5 +18,11 @@ body{
 *{
     margin: 0;
     padding: 0;
-    
+
+}
+pincipal{
+    background-image: url(img/Background.png);
+background-repeat: no-repeat;
+background-size: center;
+text-align: center;
 }
